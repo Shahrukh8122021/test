@@ -6,6 +6,6 @@ echo "This is my second line of code.";
 
 echo "This is from P1";
 
-echo "Not ok";
+echo "ok";
 
 ?>
